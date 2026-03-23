@@ -7,6 +7,6 @@ public class Exam01shorty {
         int a = s.nextInt();
         int b = s.nextInt();
 
-        System.out.println(a + "/" + b + "=" + (double) a / b);
+        System.out.println(a + " / " + b + " = " + (double) a / b);
     }
 }
