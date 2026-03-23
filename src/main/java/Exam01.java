@@ -14,6 +14,5 @@ public class Exam01 {
         System.out.println("사용자가 입력한 값 ==> " + num1);
         System.out.println("사용자가 입력한 값 ==> " + num2);
         System.out.println(num1 + "/" + num2 + "=" + resDiv);
-
     }
 }
