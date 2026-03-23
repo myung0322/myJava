@@ -11,6 +11,6 @@ public class Exam01 {
         double resDiv;
         resDiv = (double) num1 / num2;
 
-        System.out.println(num1 + "/" + num2 + "=" + resDiv);
+        System.out.println(num1 + " / " + num2 + " = " + resDiv);
     }
 }
