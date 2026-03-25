@@ -12,5 +12,7 @@ public class Exam01 {
         resDiv = (double) a / b;
 
         System.out.println(a + " / " + b + " = " + resDiv);
+
+        s.close();
     }
 }
